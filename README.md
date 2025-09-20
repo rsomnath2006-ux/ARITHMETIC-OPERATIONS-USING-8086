@@ -55,17 +55,26 @@ END
 
 #### Output Table
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
+| MEMORY LOCATION (INPUT) | DATA (INPUT)             |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|  2000                   |   12                     | 
+|  2001                   |   34                     |
+|  2002                   |   12                     |
+|  2003                   |   34                     |
+
+
+| MEMORY LOCATION (INPUT) | DATA (OUTPUT)            |
+| ----------------------- | ------------------------ |
+|  2004                   |   68                     | 
+|  2005                   |   24                     |
+|  2006                   |   00                     |
 
 #### Manual Calculations
-
-(Add your calculation here)
-
----
+![IMG-20250919-WA0012](https://github.com/user-attachments/assets/d388ca81-4f72-460c-a220-a15fd99c4a06)
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+<img width="639" height="422" alt="Screenshot 2025-09-12 085412" src="https://github.com/user-attachments/assets/2f69010e-4486-49f0-bdfd-8f4a97d7583d" />
+
 
 ## 2. SUBTRACTION
 
@@ -106,18 +115,26 @@ END
 
 #### Output Table
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
+| MEMORY LOCATION (INPUT) | DATA (INPUT)             |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|  2000                   |   56                     | 
+|  2001                   |   78                     |
+|  2002                   |   25                     |
+|  2003                   |   34                     |
 
+
+| MEMORY LOCATION (INPUT) | DATA (OUTPUT)            |
+| ----------------------- | ------------------------ |
+|  2004                   |   31                     | 
+|  2005                   |   44                     |
+|  2006                   |   34                     |
 #### Manual Calculations
-
-(Add your calculation here)
-
----
+![INSUB](https://github.com/user-attachments/assets/046321fc-ef60-4170-a251-c257bafdb3d4)
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="660" height="441" alt="Screenshot 2025-09-20 085310" src="https://github.com/user-attachments/assets/d6e43fe8-80b2-40e8-9a80-f5985b715bea" />
+
 
 ## 3. MULTIPLICATION
 
@@ -155,17 +172,25 @@ END
 
 #### Output Table
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
+| MEMORY LOCATION (INPUT) | DATA (INPUT)             |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|  2000                   |   12                     | 
+|  2001                   |   34                     |
+|  2002                   |   12                     |
+|  2003                   |   34                     |
 
+
+| MEMORY LOCATION (INPUT) | DATA (OUTPUT)            |
+| ----------------------- | ------------------------ |
+|  2004                   |   90                     | 
+|  2005                   |   5A                     |
+|  2006                   |   4B                     |
 #### Manual Calculations
-
-(Add your calculation here)
-
----
+![IMG-20250919-WA0013](https://github.com/user-attachments/assets/77ba623e-f8a1-4225-aeb3-c94efc2447fd)
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="641" height="420" alt="Screenshot 2025-09-19 140347" src="https://github.com/user-attachments/assets/4eca69da-9b9c-4aca-9201-2e87602133d6" />
+
 
 ## 4. DIVISION
 
@@ -200,16 +225,25 @@ END
 
 #### Output Table
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
+| MEMORY LOCATION (INPUT) | DATA (INPUT)             |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|  2000                   |   68                     | 
+|  2001                   |   24                     |
+|  2002                   |   34                     |
+|  2003                   |   11                     |
+
+
+| MEMORY LOCATION (INPUT) | DATA (OUTPUT)            |
+| ----------------------- | ------------------------ |
+|  2004                   |   00                     | 
+|  2005                   |   02                     |
+|  2006                   |   02                     |
 
 #### Manual Calculations
+![INDIVI](https://github.com/user-attachments/assets/022d6d27-c89a-4c0c-8a11-34b42d78ff3d)
 
-(Add your calculation here)
-
----
 ## OUTPUT FROM MASM SOFTWARE
+<img width="640" height="438" alt="Screenshot 2025-09-20 090533" src="https://github.com/user-attachments/assets/63b8a557-cd78-46c3-b992-2b72cdbb4e93" />
 
 
 
